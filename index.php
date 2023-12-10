@@ -1,0 +1,480 @@
+<?php include "include/head.php"?>
+<body>
+  <!-- ======= Top Bar ======= -->
+  <div id="topbar" class="d-none d-lg-flex align-items-center fixed-top">
+    <div class="container d-flex">
+      <div class="contact-info mr-auto">
+        <i class="icofont-envelope"></i> <a href="mailto:bandung.isco@yahoo.co.id">bandung.isco@yahoo.co.id</a>
+        <a href="mailto:bandung.isco@yahoo.co.id">, bandungisco7@gmail.com</a>
+      </div>
+      <div class="social-links">
+        <i class="icofont-phone"></i><a>+62 813-9537-6999 , +62 823-2002-7650</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top">
+    <div class="container d-flex align-items-center">
+
+      <h1 class="logo mr-auto"><a href="index.php">PT.Bandung Isco<span>.</span></a></h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html" class="logo mr-auto"><img src="assets/img/logo.png" alt=""></a>-->
+
+      <nav class="nav-menu d-none d-lg-block">
+        <ul>
+          <li class="active"><a href="index.php">Home</a></li>
+          <li><a href="about.php">About</a></li>
+          <li><a href="service-page.php">Services</a></li>
+          <li><a href="contact.php">Contact</a></li>
+
+        </ul>
+      </nav><!-- .nav-menu -->
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex align-items-center">
+    <div class="container" data-aos="zoom-out" data-aos-delay="100">
+      <h1>Selamat Datang di Official Website <br> <span> PT. BANDUNG ISCO</span>
+      </h1>
+      <h2>JASA KONSTRUKSI, 
+          JASA ENGINEERING, 
+          PERDAGANGAN <br>
+      </h2>
+
+          <P>Berpengalaman Sejak Tahun 1974</P>
+      <div class="d-flex">
+        <a href="contact.php" class="btn-get-started scrollto">Contact Us</a>
+        <a href="service-page.php" class="btn-watch-video scrollto">Our Service</a>
+      </div>
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= Featured Services Section ======= -->
+    <section id="featured-services" class="featured-services">
+      <div class="container" data-aos="fade-up">
+
+      <div class="row text-center">
+          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+              <div class="icon"><img src="assets/icon/check-list.png" alt=""></div>
+              <h4 class="title"><a>Jam Terbang Tinggi</a></h4>
+              <p class="description">Dengan jam terbang yang tinggi</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+              <div class="icon"><img src="assets/icon/employee.png" alt=""></div>
+              <h4 class="title"><a>Profesional dan Berpengalaman</a></h4>
+              <p class="description">Profesional dan berpengalaman bekerja</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
+              <div class="icon"><img src="assets/icon/checklist.png" alt=""></div>
+              <h4 class="title"><a>Telah Terintegrasi</a></h4>
+              <p class="description">Perusahaan telah terintegrasi</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
+              <div class="icon"><img src="assets/icon/worker.png" alt=""></div>
+              <h4 class="title"><a>Efektif dan efisien</a></h4>
+              <p class="description">Pengerjaan efektif dan efisien</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Featured Services Section -->
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>About</h2>
+          <h3>SEKILAS <br> <span>PT. BANDUNG ISCO - GENERAL CONTRACTOR</span></h3>
+          <p>SUB BIDANG :</p>
+          <p>I. JASA KONSTRUKSI (Elektrikal, Instrumental, Mekanikal, Sipil, Arsitektur) <br>
+            II. JASA ENGINEERING (Design & Engineering, Gambar Kerja) <br>
+            III. PERDAGANGAN (Pengadaan / Supply Material Elektrikal)
+          </p>
+          <p>Berpengalaman Sejak Thn 1974</p>
+        </div>
+
+        <div class="row text-justify">
+          <div class="col-lg-6" data-aos="zoom-out" data-aos-delay="100">
+            <img src="assets/img/10.jpg" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
+            <h3>PT. Bandung Isco.</h3>
+            <p class="text-justify">
+              PT. BANDUNG ISCO, YANG DISINGKAT DENGAN BI BERDIRI PADA TAHUN 1974 OLEH PROFESIONAL MUDA, HANDAL BERDEDIKASI TINGGI DAN DIDUKUNG OLEH SUMBER DAYA MANUSIA YANG PROFESIONAL. BERPERAN AKTIF MENDUKUNG PROGRAM – PROGRAM PEMERINTAH, TERUTAMA MENCIPTAKAN LAPANGAN KERJA. DILATAR BELAKANGI OLEH REPUTASI PARA PENDIRINYA, BI  BERGERAK  DIBIDANG  USAHA  JASA  RANCANG   BANGUN ( KONTRAKTOR) DAN JASA REKAYASA ( ENGINEERING).
+            </p>
+            <ul>
+              <li>
+                <i class="bx bx-low-vision"></i>
+                <div>
+                  <h5>Visi</h5>
+                  <p>BI,  mengemban dan mengembangkan  dalam bidang rekayasa dan rancang bangun untuk ikut berperan serta secara aktif mendukung program pemerintah dalam menciptakan lapangan kerja yang mandiri dan berdaya saing tinggi di era globalisasi.</p>
+                </div>
+              </li>
+              <li>
+                <i class="bx bx-target-lock"></i>
+                <div>
+                  <h5>Misi</h5>
+                  <p>Misi yang di emban dan dikembangkan dengan didirikannya BI adalah :</p>
+                  <ol>1.  Sebagai sarana untuk mendukung dan mewujudkan salah satu program pemerintah penyedia lapangan kerja.</ol> <br>
+                  <ol>2.  Menjalin dan menjaga hubungan kerja sama yang saling menguntungkan dengan segala pihak , baik Instansi Pemerintah maupun swasta.</ol> <br>
+                  <ol>3.  Meningkatkan sinergi antara tenaga ahli senior yang sarat dengan pengalaman dengan para tenaga ahli muda yang penuh dengan kreativitas dan inovasi.</ol> <br>
+                  <ol>4.  Meningkatkan profesionalisme kerja dalam menyelesaikan setiap kepercayaan dan tugas yang diemban dengan hasil kerja yang tepat waktu dan mutu terjaga</ol> <br>
+                  <ol>5.  Memenuhi kebutuhan dunia kontruksi dalam rekayasa dan rancang bangun pada era globalisasi</ol>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Services</h2>
+          <h3>Layanan <span>Kami</span></h3>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <h4><a href="service-page.php">Instalasi Listrik</a></h4>
+              <p class="text-justify">Instalasi listrik adalah service unggulan kami yang sudah dipercaya oleh berbagai perusahaan besar hingga kecil, mitra bisnis, dan juga masyarakat yang membutuhkan layanan instalasi listrik profesional serta berkualitas.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <h4><a href="service-page.php">Instalasi Gardu Konsumen (Trafo, Panel Dan Kubikel)</a></h4>
+              <p class="text-justify">Dengan bergerak di bidang instalasi listrik, kami menyediakan layanan pembangunan dan Instalasi Gardu Konsumen dengan bentuk Trafo, Panel maupun Kubikel yang bisa Anda pilih sesuai kebutuhan. Kualitas produk kami pun juga tahan lama dan kuat untuk digunakan sepanjang waktu.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <h4><a href="service-page.php">Perakitan Kapasitor dan Panel Induk/MDP</a></h4>
+              <p>Kapasitor dan Panel Induk/MDP yang sangat diperlukan untuk industri dan gedung-gedung besar bisa kami sediakan secara cepat. Kualitas prima yang layanan kami tawarkan pastinya tidak akan membuat Anda kecewa</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <h4><a href="service-page.php">Penambahan Daya atau Pemasangan Baru Listrik</a></h4>
+              <p class="text-justify">Dalam aktivitas sehari-hari, kebutuhan akan listrik pasti mengalami peningkatan. Dengan menggunakan layanan kami, Anda bisa menambahkan daya atau pemasangan baru listrik dengan pengerjaan yang cepat dan tepat.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <h4><a href="service-page.php">Instalasi dan Penarikan Kabel (SKTM) dan (SUTM)</a></h4>
+              <p class="text-justify">Selain SKTM, kami juga menyediakan layanan konstruksi jaringan kabel Saluran Udara Tegangan Menengah (SUTM) 20 KV. Baik untuk kebutuhan industri maupun perumahan, kami dapat melakukan perencanaan material dan menentukan ukuran tiang beton untuk penempatan trafo umum, yakni dari tegangan menengah ke tegangan rendah.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <h4><a href="service-page.php">Jasa Pengurusan SLO</a></h4>
+              <p class="text-justify">SLO adalah sertifikat yang diterbitkan oleh Lembaga Inspeksi Teknik yang ditunjuk Pemerintah untuk melakukan inspeksi kelaikan operasi atas instalasi listrik yang dipasang di bangunan pemohon listrik.</p>
+            </div>
+          </div>
+          
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <h4><a href="service-page.php">Pemasangan dan Penarikan Kabel Tegangan Tinggi dan Ekstra Tinggi</a></h4>
+              <p class="text-justify">PT PLN (Persero) sebagai BUMN di Indonesia yang bertugas menyediakan serta mengatur pasokan listrik dalam negeri, tentunya terus menerus melakukan upaya untuk memenuhi kebutuhan listrik secara bertahap di seluruh pelosok negeri. Beberapa upaya yang telah dilakukan seperti memanfaatkan berbagai energi alternatif untuk dapat menghasilkan pasokan listrik yang cukup, andal dan ramah lingkungan.</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+     <!-- ======= Portfolio Section ======= -->
+     <section id="portfolio" class="portfolio section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Portfolio</h2>
+          <h3>Check our <span>Portfolio</span></h3>
+        </div>
+
+
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <img src="assets/img/13.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <a href="assets/img/13.jpg" data-gall="portfolioGallery" class="venobox preview-link"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <img src="assets/img/3.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <a href="assets/img/3.jpg" data-gall="portfolioGallery" class="venobox preview-link"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <img src="assets/img/4.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <a href="assets/img/4.jpg" data-gall="portfolioGallery" class="venobox preview-link"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <img src="assets/img/6.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <a href="assets/img/6.jpg" data-gall="portfolioGallery" class="venobox preview-link"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <img src="assets/img/7.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <a href="assets/img/7.jpg" data-gall="portfolioGallery" class="venobox preview-link"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <img src="assets/img/8.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <a href="assets/img/8.jpg" data-gall="portfolioGallery" class="venobox preview-link"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <img src="assets/img/9.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <a href="assets/img/9.jpg" data-gall="portfolioGallery" class="venobox preview-link"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <img src="assets/img/10.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <a href="assets/img/10.jpg" data-gall="portfolioGallery" class="venobox preview-link"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"></i></a>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <img src="assets/img/13.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <a href="assets/img/13.jpg" data-gall="portfolioGallery" class="venobox preview-link"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"></i></a>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <img src="assets/img/14.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <a href="assets/img/14.jpg" data-gall="portfolioGallery" class="venobox preview-link"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"></i></a>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Portfolio Section -->
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Contact</h2>
+          <h3><span>Contact Us</span></h3>
+        </div>
+
+        <div class="row" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-6">
+            <div class="info-box mb-4">
+              <i class="bx bx-map"></i>
+              <h3>Our Address</h3>
+              <p>GEDUNG PUTIH
+              Jl. Andromeda, Blok L II A,No.42, Margahayu Raya,<br>
+              Bandung</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="info-box  mb-4">
+              <i class="bx bx-envelope"></i>
+              <h3>Email Us</h3>
+              <p>bandung.isco@yahoo.co.id</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="info-box  mb-4">
+              <i class="bx bx-phone-call"></i>
+              <h3>Call Us</h3>
+              <p>+62 823 2002 7650</p>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="row" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-md-12">
+            <div class="map-responsive">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.519302772099!2d107.65720731523106!3d-6.947902669950185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e8228dd98409%3A0x475495da488c49cd!2sBandung%20Isco.%20PT!5e0!3m2!1sid!2sid!4v1631556248474!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Contact Section -->
+
+    <!-- ======= Clients Section ======= -->
+    <section id="clients" class="section-bg">
+    <div class="container">
+        <div class="section-header pb-5">
+            <h3>Our Clients</h3>
+        </div>
+        <div class="row no-gutters clients-wrap clearfix wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+            <div class="col-lg-3 col-md-4 col-xs-6">
+                <div class="client-logo text-center"> <p>PT. Wijaya Karya (Persero) Tbk</p> </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6">
+                <div class="client-logo text-center"> <p>PT. Jasa Tirta Energi</p> </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6">
+                <div class="client-logo text-center"> <p>PT. KCIC</p> </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6">
+                <div class="client-logo text-center"> <p>PT Jasa Marga (Persero) Tbk</p> </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6">
+                <div class="client-logo text-center"> <p>PT. PLN (Persero) UP3 Cimahi</p> </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6">
+                <div class="client-logo text-center"> <p>PT. PLN (Persero) UP3 Bandung</p> </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6">
+                <div class="client-logo text-center"> <p>PT. PLN (Persero) UP3 Garut</p> </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6">
+                <div class="client-logo text-center"> <p>PT. PLN (Persero) UP3 Majalaya</p> </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6">
+                <div class="client-logo text-center"> <p>PT. Belaputera Intiland (Kota Baru Parahyangan)</p> </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6">
+                <div class="client-logo text-center"> <p>PT. Perkebunan Nusantara XI</p> </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6">
+                <div class="client-logo text-center"> <p>PT. Indonesia Power - Saguling Hydro Electric Power Plant </p> </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6">
+                <div class="client-logo text-center"> <p>Dinas Energi dan Sumber Daya Mineral Provinsi Jawa Barat</p> </div>
+            </div>
+        </div>
+    </div>
+</section>
+  </main><!-- End #main -->
+
+  <?php include "include/footer.php"?>
+
+  <div id="preloader"></div>
+  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+<?php include "include/script.php"?>
+
+</body>
+</html>
+
+<style>
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:50%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.section-header h3 {
+     font-size: 36px;
+     color: #283d50;
+     text-align: center;
+     font-weight: 500;
+     position: relative
+ }
+
+ .section-header p {
+     text-align: center;
+     margin: auto;
+     font-size: 15px;
+     padding-bottom: 60px;
+     color: #556877;
+     width: 50%
+ }
+
+ #clients {
+     padding: 60px 0
+ }
+
+ #clients .clients-wrap {
+     border-top: 1px solid #d6eaff;
+     border-left: 1px solid #d6eaff;
+     margin-bottom: 30px
+ }
+
+ #clients .client-logo {
+     padding: 64px;
+     display: -webkit-box;
+     display: -webkit-flex;
+     display: -ms-flexbox;
+     display: flex;
+     -webkit-box-pack: center;
+     -webkit-justify-content: center;
+     -ms-flex-pack: center;
+     justify-content: center;
+     -webkit-box-align: center;
+     -webkit-align-items: center;
+     -ms-flex-align: center;
+     align-items: center;
+     border-right: 1px solid #d6eaff;
+     border-bottom: 1px solid #d6eaff;
+     overflow: hidden;
+     background: #fff;
+     height: 160px
+ }
+
+ #clients img {
+     transition: all 0.4s ease-in-out
+ }
+</style>
